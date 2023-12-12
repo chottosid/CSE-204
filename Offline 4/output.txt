@@ -1,0 +1,42 @@
+INSERTED 7
+INSERTED 10
+INSERTED 5
+Printing the Binary Heap: 
+
+LEVEL 0 :
+5 
+LEVEL 1 :
+10 7 
+
+INSERTED 12
+INSERTED 15
+Printing the Binary Heap: 
+
+LEVEL 0 :
+5 
+LEVEL 1 :
+10 7 
+LEVEL 2 :
+12 15 
+
+15 decreased to 3
+Printing the Binary Heap: 
+
+LEVEL 0 :
+3 
+LEVEL 1 :
+5 7 
+LEVEL 2 :
+12 10 
+
+FindMin returned 3
+ExtractMin returned 3
+Printing the Binary Heap: 
+
+LEVEL 0 :
+5 
+LEVEL 1 :
+10 7 
+LEVEL 2 :
+12 
+
